@@ -1,4 +1,4 @@
-<?php //111111111111
+<?php
 ?>
 <!DOCTYPE html>
 <html>
@@ -18,11 +18,23 @@
     </div>
 
 </form>
+<div class="button-wr">
 
+    <a href="#" id="clear-q">Очистить очередь</a>
+    <a href="#" id="download-all">Скачать все</a>
+
+</div>
 <div id="cellArea">
 
 
 </div>
+
+<div class="images">
+    <img src="https://pp.userapi.com/c841133/v841133989/20e9c/dvpdD1b2gBY.jpg" alt="" download>
+    
+</div>
+
+
 
 
 </body>

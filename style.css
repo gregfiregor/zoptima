@@ -48,8 +48,8 @@ body {
     position: relative;
 
 }
-#cellArea .cell-inner
-{
+
+#cellArea .cell-inner {
     position: relative;
 }
 
@@ -77,8 +77,8 @@ body {
     background-position: left bottom;
     z-index: 1;
 }
-#cellArea .cell .cell-name
-{
+
+#cellArea .cell .cell-name {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -89,4 +89,31 @@ body {
     font-size: 12px;
     text-align: center;
     z-index: 3;
+}
+
+.button-wr {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#clear-q {
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #ffaaaa;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+
+}
+#download-all
+{
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: cadetblue;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
 }
